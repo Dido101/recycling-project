@@ -1,0 +1,43 @@
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="STYLING.css">
+  <title>Recycling</title>
+</head>
+<body>
+  <header>
+    <h1>Learn How To Recycle Right</h1>
+    <nav>
+      <a href="webpage1.html">HOME</a> |
+      <a href="recycling.html">RECYCLING INFORMATION</a> |
+      <a href="climate.html">WHY RECYCLING</a>
+    </nav>
+    <hr>
+  </header>
+
+  <main>
+    <h2>Our actions reshape our future</h2>
+    <p>
+      This simple website shares basic information about recycling 
+      and climate change, plus ideas for small actions you can take 
+      every day.
+    </p>
+
+    <h3>What you’ll find here</h3>
+    <ul>
+      <li><strong>Recycling Info</strong> – What you can recycle and why it matters.</li>
+      <li><strong>Climate Info</strong> – What climate change is and its main causes.</li>
+      <li><strong>Everyday Tips</strong> – Easy ways to reduce your impact.</li>
+    </ul>
+
+    <p>
+      Use the links at the top of the page to explore each topic.
+    </p>
+  </main>
+
+  <footer>
+    <hr>
+  
+  </footer>
+</body>
+</html>
